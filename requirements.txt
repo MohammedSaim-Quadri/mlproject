@@ -1,10 +1,8 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
 catboost
-xgboost
 dill
 Flask
-# -e .
+numpy<2.0,>=1.16.0
+pandas
+scikit_learn
+setuptools
+xgboost
